@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--This is an auto generated document. Changes to this document may cause incorrect behavior.--><wap-provisioningdoc>
+    
+  <characteristic type="ProfileInfo">
+        
+    <parm name="created_wizard_version" value="9.1.0"/>
+      
+  </characteristic>
+    
+  
+  <characteristic type="Profile">
+        
+    <parm name="ProfileName" value="DISPLAYTIMEOUT"/>
+        
+    <parm name="ModifiedDate" value="2021-11-05 18:48:33"/>
+        
+    <parm name="TargetSystemVersion" value="6.0"/>
+        
+    <characteristic type="DisplayMgr" version="5.0">
+            
+      <parm name="emdk_name" value=""/>
+            
+      <parm name="TimeoutInterval" value="600"/>
+          
+    </characteristic>
+      
+  </characteristic>
+  
+</wap-provisioningdoc>
